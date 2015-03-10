@@ -1,4 +1,4 @@
-package com.raulavila.lesson01.permcheck;
+package com.raulavila.lesson02.permcheck;
 
 import java.util.Arrays;
 

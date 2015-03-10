@@ -1,4 +1,4 @@
-package com.raulavila.lesson01.frogriverone;
+package com.raulavila.lesson02.frogriverone;
 
 // https://codility.com/c/intro/demoBY8S3M-RZV
 public class Solution {

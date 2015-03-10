@@ -1,4 +1,4 @@
-package com.raulavila.lesson01.maxcounters;
+package com.raulavila.lesson02.maxcounters;
 
 //https://codility.com/c/intro/demoC6T6RD-C2H
 public class Solution {

@@ -1,4 +1,4 @@
-package com.raulavila.lesson00.frogjmp;
+package com.raulavila.lesson01.frogjmp;
 
 // https://codility.com/c/intro/demoEXCRU2-BM3
 public class Solution {

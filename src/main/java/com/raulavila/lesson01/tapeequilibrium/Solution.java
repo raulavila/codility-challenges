@@ -1,4 +1,4 @@
-package com.raulavila.lesson00.tapeequilibrium;
+package com.raulavila.lesson01.tapeequilibrium;
 
 // https://codility.com/c/intro/demoQRKBDB-Y3U
 public class Solution {
